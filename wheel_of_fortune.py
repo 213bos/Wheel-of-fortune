@@ -1,5 +1,4 @@
 # Andrew Boskovich
-# 62407900
 
 import json
 import wof_computer
