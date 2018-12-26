@@ -1,6 +1,5 @@
 - Andrew Boskovich
-- 62407900
-- To run my submission, type “python3 wheel_of_fortune.py” in your terminal window after navigating your directories to find the folder “Wheel of Python - Andrew Boskovich”
+- To run my submission, type “python3 wheel_of_fortune.py” in your terminal window after navigating your directories to find the folder
 - You will be asked to enter your name and then the game will begin
 
 - Example interactions:
